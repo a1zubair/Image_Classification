@@ -1,7 +1,6 @@
-Title: Pneuumonia Detection in Chest X-Ray Images
+<img width="794" alt="Screenshot 2023-05-08 at 10 09 16 PM" src="https://user-images.githubusercontent.com/114265941/236976288-6571e216-d207-4faa-b838-524e22963299.png">
 
 
-Importance of the Problem
 
 <img width="778" alt="Screenshot 2023-05-08 at 9 57 54 PM" src="https://user-images.githubusercontent.com/114265941/236975277-5b71473c-2a12-413f-b0b3-be8ba48746b5.png">
 
